@@ -84,3 +84,28 @@ a{
     background-color: #E5E7EB;
     color: #1F2937;
 }
+
+.box {
+    background-color: rgb(43, 108, 192);
+    color: white;
+    display: flex;
+    align-content: center;
+    width: 1000px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 12px;
+}
+
+.section-4 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.not-sign {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
