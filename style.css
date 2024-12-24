@@ -1,8 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+.roboto {
+    font-family: "Roboto", serif;
+    font-style: normal;
+  }  
+
 .header{
     background-color: #1F2937;
     display: flex;
-    margin-left: 70px;
-    margin-right: 70px;
 }
 
 .big-image {
@@ -15,4 +25,8 @@
     width: 100px;
     height:100px;
     border-radius: 10px;
+}
+
+.section-1 {
+    background-color: #1F2937;
 }
