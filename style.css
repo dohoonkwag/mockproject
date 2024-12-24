@@ -1,0 +1,18 @@
+.header{
+    background-color: #1F2937;
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.big-image {
+    width: 350px;
+    height: auto;
+    border-radius: 15px;
+}
+
+.small-image {
+    width: 100px;
+    height:100px;
+    border-radius: 10px;
+}
